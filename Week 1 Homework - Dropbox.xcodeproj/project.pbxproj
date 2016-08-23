@@ -14,6 +14,21 @@
 		27E51EC71D6B4C4B00B0E35A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27E51EC51D6B4C4B00B0E35A /* LaunchScreen.storyboard */; };
 		27E51ED21D6B4C4B00B0E35A /* Week_1_Homework___DropboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51ED11D6B4C4B00B0E35A /* Week_1_Homework___DropboxTests.swift */; };
 		27E51EDD1D6B4C4B00B0E35A /* Week_1_Homework___DropboxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51EDC1D6B4C4B00B0E35A /* Week_1_Homework___DropboxUITests.swift */; };
+		27E51EEB1D6B6B9C00B0E35A /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51EEA1D6B6B9C00B0E35A /* CreateAccountViewController.swift */; };
+		27E51EED1D6B6DFD00B0E35A /* CreateAccountRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51EEC1D6B6DFD00B0E35A /* CreateAccountRootViewController.swift */; };
+		27E51EEF1D6B6E5100B0E35A /* SignInRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51EEE1D6B6E5100B0E35A /* SignInRootViewController.swift */; };
+		27E51EF11D6B8C0500B0E35A /* CreateAccountOneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51EF01D6B8C0500B0E35A /* CreateAccountOneViewController.swift */; };
+		27E51EF31D6B8D0200B0E35A /* CreateAccountTwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51EF21D6B8D0200B0E35A /* CreateAccountTwoViewController.swift */; };
+		27E51EF51D6B8DB700B0E35A /* CreateAccountThreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51EF41D6B8DB700B0E35A /* CreateAccountThreeViewController.swift */; };
+		27E51EF71D6B8E0400B0E35A /* CreateAccountFourViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51EF61D6B8E0400B0E35A /* CreateAccountFourViewController.swift */; };
+		27E51EF91D6B8F9800B0E35A /* CreateAccountFiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51EF81D6B8F9800B0E35A /* CreateAccountFiveViewController.swift */; };
+		27E51EFB1D6B925700B0E35A /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51EFA1D6B925700B0E35A /* SignInViewController.swift */; };
+		27E51EFD1D6B969500B0E35A /* TermsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51EFC1D6B969500B0E35A /* TermsViewController.swift */; };
+		27E51EFF1D6B98E400B0E35A /* NewUserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51EFE1D6B98E400B0E35A /* NewUserViewController.swift */; };
+		27E51F011D6B9F7D00B0E35A /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51F001D6B9F7D00B0E35A /* SettingsViewController.swift */; };
+		27E51F031D6BB86000B0E35A /* ExistingPhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51F021D6BB86000B0E35A /* ExistingPhotosViewController.swift */; };
+		27E51F051D6BBB0600B0E35A /* ExistingSettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51F041D6BBB0600B0E35A /* ExistingSettingsViewController.swift */; };
+		27E51F071D6BBBF300B0E35A /* SignInCompleteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E51F061D6BBBF300B0E35A /* SignInCompleteViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +62,21 @@
 		27E51ED81D6B4C4B00B0E35A /* Week 1 Homework - DropboxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Week 1 Homework - DropboxUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		27E51EDC1D6B4C4B00B0E35A /* Week_1_Homework___DropboxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Week_1_Homework___DropboxUITests.swift"; sourceTree = "<group>"; };
 		27E51EDE1D6B4C4B00B0E35A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27E51EEA1D6B6B9C00B0E35A /* CreateAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
+		27E51EEC1D6B6DFD00B0E35A /* CreateAccountRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountRootViewController.swift; sourceTree = "<group>"; };
+		27E51EEE1D6B6E5100B0E35A /* SignInRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInRootViewController.swift; sourceTree = "<group>"; };
+		27E51EF01D6B8C0500B0E35A /* CreateAccountOneViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountOneViewController.swift; sourceTree = "<group>"; };
+		27E51EF21D6B8D0200B0E35A /* CreateAccountTwoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountTwoViewController.swift; sourceTree = "<group>"; };
+		27E51EF41D6B8DB700B0E35A /* CreateAccountThreeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountThreeViewController.swift; sourceTree = "<group>"; };
+		27E51EF61D6B8E0400B0E35A /* CreateAccountFourViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountFourViewController.swift; sourceTree = "<group>"; };
+		27E51EF81D6B8F9800B0E35A /* CreateAccountFiveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountFiveViewController.swift; sourceTree = "<group>"; };
+		27E51EFA1D6B925700B0E35A /* SignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		27E51EFC1D6B969500B0E35A /* TermsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsViewController.swift; sourceTree = "<group>"; };
+		27E51EFE1D6B98E400B0E35A /* NewUserViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewUserViewController.swift; sourceTree = "<group>"; };
+		27E51F001D6B9F7D00B0E35A /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		27E51F021D6BB86000B0E35A /* ExistingPhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExistingPhotosViewController.swift; sourceTree = "<group>"; };
+		27E51F041D6BBB0600B0E35A /* ExistingSettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExistingSettingsViewController.swift; sourceTree = "<group>"; };
+		27E51F061D6BBBF300B0E35A /* SignInCompleteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInCompleteViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +107,12 @@
 		27E51EB01D6B4C4B00B0E35A = {
 			isa = PBXGroup;
 			children = (
+				27E51EF01D6B8C0500B0E35A /* CreateAccountOneViewController.swift */,
+				27E51EF21D6B8D0200B0E35A /* CreateAccountTwoViewController.swift */,
+				27E51EF41D6B8DB700B0E35A /* CreateAccountThreeViewController.swift */,
+				27E51EF61D6B8E0400B0E35A /* CreateAccountFourViewController.swift */,
+				27E51EF81D6B8F9800B0E35A /* CreateAccountFiveViewController.swift */,
+				27E51EFA1D6B925700B0E35A /* SignInViewController.swift */,
 				27E51EBB1D6B4C4B00B0E35A /* Week 1 Homework - Dropbox */,
 				27E51ED01D6B4C4B00B0E35A /* Week 1 Homework - DropboxTests */,
 				27E51EDB1D6B4C4B00B0E35A /* Week 1 Homework - DropboxUITests */,
@@ -100,6 +136,15 @@
 				27E51EBC1D6B4C4B00B0E35A /* AppDelegate.swift */,
 				27E51EBE1D6B4C4B00B0E35A /* ViewController.swift */,
 				27E51EC01D6B4C4B00B0E35A /* Main.storyboard */,
+				27E51F021D6BB86000B0E35A /* ExistingPhotosViewController.swift */,
+				27E51F041D6BBB0600B0E35A /* ExistingSettingsViewController.swift */,
+				27E51F061D6BBBF300B0E35A /* SignInCompleteViewController.swift */,
+				27E51F001D6B9F7D00B0E35A /* SettingsViewController.swift */,
+				27E51EFE1D6B98E400B0E35A /* NewUserViewController.swift */,
+				27E51EFC1D6B969500B0E35A /* TermsViewController.swift */,
+				27E51EEA1D6B6B9C00B0E35A /* CreateAccountViewController.swift */,
+				27E51EEC1D6B6DFD00B0E35A /* CreateAccountRootViewController.swift */,
+				27E51EEE1D6B6E5100B0E35A /* SignInRootViewController.swift */,
 				27E51EC31D6B4C4B00B0E35A /* Assets.xcassets */,
 				27E51EC51D6B4C4B00B0E35A /* LaunchScreen.storyboard */,
 				27E51EC81D6B4C4B00B0E35A /* Info.plist */,
@@ -256,8 +301,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27E51EFB1D6B925700B0E35A /* SignInViewController.swift in Sources */,
+				27E51EFF1D6B98E400B0E35A /* NewUserViewController.swift in Sources */,
+				27E51EF91D6B8F9800B0E35A /* CreateAccountFiveViewController.swift in Sources */,
+				27E51F071D6BBBF300B0E35A /* SignInCompleteViewController.swift in Sources */,
+				27E51EEF1D6B6E5100B0E35A /* SignInRootViewController.swift in Sources */,
+				27E51EF51D6B8DB700B0E35A /* CreateAccountThreeViewController.swift in Sources */,
+				27E51EED1D6B6DFD00B0E35A /* CreateAccountRootViewController.swift in Sources */,
+				27E51F031D6BB86000B0E35A /* ExistingPhotosViewController.swift in Sources */,
+				27E51EEB1D6B6B9C00B0E35A /* CreateAccountViewController.swift in Sources */,
 				27E51EBF1D6B4C4B00B0E35A /* ViewController.swift in Sources */,
 				27E51EBD1D6B4C4B00B0E35A /* AppDelegate.swift in Sources */,
+				27E51F051D6BBB0600B0E35A /* ExistingSettingsViewController.swift in Sources */,
+				27E51F011D6B9F7D00B0E35A /* SettingsViewController.swift in Sources */,
+				27E51EF71D6B8E0400B0E35A /* CreateAccountFourViewController.swift in Sources */,
+				27E51EF31D6B8D0200B0E35A /* CreateAccountTwoViewController.swift in Sources */,
+				27E51EFD1D6B969500B0E35A /* TermsViewController.swift in Sources */,
+				27E51EF11D6B8C0500B0E35A /* CreateAccountOneViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
